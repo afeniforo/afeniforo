@@ -32,16 +32,11 @@ I am a highly skilled Data and Automation Specialist with over 4 years of profes
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,python,gcp,bigquery,cloudfunctions,postgres,vscode,selenium,github,git" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40px" style="border-radius:8px;" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40px" style="border-radius:8px;" />
+  <img src="https://skillicons.dev/icons?i=python,gcp,postgres,vscode,selenium,github,git" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afeniforo&theme=monokai&margin-w=10&no-bg=true&no-frame=true" />
-</p>
 
 ---
 
@@ -62,13 +57,6 @@ I am a highly skilled Data and Automation Specialist with over 4 years of profes
 
 ---
 
-## 🔥 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/afeniforo/afeniforo/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🧩 Featured Projects
 
